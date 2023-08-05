@@ -1,0 +1,249 @@
+a{
+  transition: all 0.2s ease-in 0s;
+  color: white
+}
+
+a:focus,
+a:hover {
+color: #154E81;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+nav{
+  list-style: none;
+margin: 0;
+padding: 0;
+height: 70px;
+background-color: #000 ;
+
+}
+
+/*título*/
+
+h2 span{
+color: #2aabc0;
+font-family: "Quattrocento Sans" , sans-serif ;
+}
+
+.tituloG{
+  font-family: "Quattrocento Sans" , sans-serif ;
+  padding-left: 500px;
+  font-size: 20px;
+}
+
+
+
+/*Primera Galeria */
+.galeria{
+  text-decoration: none;
+ display: flex;
+
+}
+.galeria audio{
+  width: 250px ;
+  height: 150px;
+  padding: 20px 90px;
+  margin-bottom: 0%;
+ 
+}
+
+.galeria h1{
+font-size: 20px;
+padding: 0px 60px;
+margin: 0px 0px 0px 90px;
+ font-family: 'Oswald', sans-serif;
+}
+
+.galeria form{
+  font-size: 15px;
+  padding: 0px 60px;
+  font-family: Yu Gothic;
+  margin: 0px 0px 0px 90px;
+  margin-top: 5px;
+}
+
+
+   /*Primer Galeria  FIN*/   
+
+   /*Segunda Galeria */
+.galeria02{
+  text-decoration: none;
+ display: flex;
+
+}
+.galeria02 audio{
+  width: 250px ;
+  height: 150px;
+  padding: 20px 90px;
+  margin-bottom: 0%;
+ 
+}
+
+.galeria02 h1{
+font-size: 20px;
+padding: 0px 60px;
+margin: 0px 0px 0px 90px;
+ font-family: 'Oswald', sans-serif;
+}
+
+.galeria02 form{
+  font-size: 15px;
+  padding: 0px 60px;
+  font-family: Yu Gothic;
+  margin: 0px 0px 0px 90px;
+  margin-top: 5px;
+}
+
+
+   /*Segunda Galeria  FIN*/   
+
+    /*Tercera Galeria */
+.galeria03{
+  text-decoration: none;
+ display: flex;
+
+}
+.galeria03 audio{
+  width: 250px ;
+  height: 150px;
+  padding: 20px 90px;
+  margin-bottom: 0%;
+ 
+}
+
+.galeria03 h1{
+font-size: 20px;
+padding: 0px 60px;
+margin: 0px 0px 0px 90px;
+ font-family: 'Oswald', sans-serif;
+}
+
+.galeria03 form{
+  font-size: 15px;
+  padding: 0px 60px;
+  font-family: Yu Gothic;
+  margin: 0px 0px 0px 90px;
+  margin-top: 5px;
+}
+
+
+   /*Tercera Galeria  FIN*/   
+
+   
+    /*Cuarta Galeria */
+.galeria04{
+text-decoration: none;
+display: flex;
+
+}
+.galeria04 audio{
+width: 250px ;
+height: 150px;
+padding: 20px 90px;
+margin-bottom: 0%;
+
+}
+
+.galeria04 h1{
+font-size: 20px;
+padding: 0px 60px;
+margin: 0px 0px 0px 90px;
+font-family: 'Oswald', sans-serif;
+}
+
+.galeria04 form{
+font-size: 15px;
+padding: 0px 60px;
+font-family: Yu Gothic;
+margin: 0px 0px 0px 90px;
+margin-top: 5px;
+}
+
+
+ /*Quinta Galeria */
+ .galeria05{
+  text-decoration: none;
+ display: flex;
+
+}
+.galeria05 audio{
+  width: 250px ;
+  height: 150px;
+  padding: 20px 90px;
+  margin-bottom: 0%;
+ 
+}
+
+.galeria05 h1{
+font-size: 20px;
+padding: 0px 60px;
+margin: 0px 0px 0px 90px;
+ font-family: 'Oswald', sans-serif;
+}
+
+.galeria05 form{
+  font-size: 15px;
+  padding: 0px 60px;
+  font-family: Yu Gothic;
+  margin: 0px 0px 0px 90px;
+  margin-top: 5px;
+}
+
+
+   /*Sexta Galeria */
+   .galeria06{
+    text-decoration: none;
+   display: flex;
+  
+  }
+  .galeria06 audio{
+    width: 250px ;
+    height: 150px;
+    padding: 20px 90px;
+    margin-bottom: 0%;
+   
+  }
+  
+  .galeria06 h1{
+  font-size: 20px;
+  padding: 0px 60px;
+  margin: 0px 0px 0px 90px;
+   font-family: 'Oswald', sans-serif;
+  }
+  
+  .galeria06 form{
+    font-size: 15px;
+    padding: 0px 60px;
+    font-family: Yu Gothic;
+    margin: 0px 0px 0px 90px;
+    margin-top: 5px;
+  }
+
+  button{
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding: 10px;
+
+    background-color: #76d7c8;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+button:hover{
+    background: #000;
+    color: #fff;
+}
+h1{
+    text-align: center;
+}
+#resultado{
+    font-size: 30px;
+    color: darkred;
+}
+  
